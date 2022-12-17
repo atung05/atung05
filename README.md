@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atung05
 - 👀 I’m interested in raspberry Pi
-- 🌱 I’m currently learning Java, C++, Linux
+- 🌱 I’m currently learning Javascript, C++, Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
